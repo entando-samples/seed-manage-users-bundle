@@ -1,0 +1,5 @@
+code: manage-users
+description: An MFE that calls keycloak to render user data
+components:
+  widgets:
+    - widgets/manage_users-descriptor.yaml
